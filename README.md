@@ -1,7 +1,14 @@
 # Credit Risk Modeling using Machine Learning
 
 ## Aim:
-The main aim of this project is to explore the dataset and discuss some interesting observations through visualizations and train machine learning models to predict the probabilty of default (PD), Loss given default (LGD) and Exposure at default (EAD) based on various features using supervised learning.
+This isn’t just another data project—it’s a blueprint for risk domination. We’re tearing through the dataset, uncovering insights that others overlook, and visualizing trends that redefine the game. Then, we bring in the heavy artillery: supervised machine learning models that don’t just predict risk—they call the shots.
+
+We’re locking in:
+🔥 Probability of Default (PD) – Spotting bad loans before they happen.
+🔥 Loss Given Default (LGD) – Calculating how much is at stake before it’s too late.
+🔥 Exposure at Default (EAD) – Knowing exactly how deep the risk goes.
+
+This isn’t about predicting the future—it’s about owning it.
 
 <pre>
 ├── data
@@ -25,13 +32,12 @@ The main aim of this project is to explore the dataset and discuss some interest
 │    ├── Step_7) Expected Loss.ipynb (Calculating expected loss)
 </pre>
 
-## Deployment:
-I have deployed the model at Heroku. You can have a look: https://abhash-crm.herokuapp.com/
+
 
 ## Dataset:
-The dataset contains all available data for more than 800,000 consumer loans issued from 2007 to 2015 by Lending Club: a large US peer-to-peer lending company.
-There are several different versions of this dataset. I have used a 1st version but now dataset is not available on kaggle.com
-But you can explore the available dataset: https://www.kaggle.com/pragyanbo/a-hitchhiker-s-guide-to-lending-club-loan-data#Understanding-the-data
+We’re working with real financial firepower—a dataset packing over 800,000 consumer loans issued between 2007 and 2015 by Lending Club, a heavyweight in the US peer-to-peer lending game.
+
+There’s more than one version of this dataset floating around, but here’s the deal: we cut through the noise, extract what matters, and turn raw numbers into strategic intelligence
 
 ## Models:
 * For PD, I have used logistic regression
